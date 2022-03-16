@@ -27,4 +27,4 @@ and I'm learning to use
 
 Do not hesitate to check my repo's I do other side projects to have good nights of sleep 🧑‍💻<br><br>
 
-<strong>Do not hesitate to reach me !! js.morel130@gmail.com</strong><br><br>
+<strong>Never ever hesitate to reach me !! js.morel130@gmail.com</strong><br><br>
