@@ -17,7 +17,8 @@ Of course I have used during all my different trainings<br><br>
 <img src="https://user-images.githubusercontent.com/82602681/158594763-e94a8509-d204-41ee-9630-b97604bdf04c.png" alt="drawing" width="70"/>
 <img src="https://user-images.githubusercontent.com/82602681/158594772-af6aec76-4edf-4f27-8279-ae65a5850d51.png" alt="drawing" width="100"/>
 <img src="https://user-images.githubusercontent.com/82602681/158594843-a92e0896-194f-4bf0-9073-9000b5f7d0d2.png" alt="drawing" width="55"/>
-<img src="https://user-images.githubusercontent.com/82602681/158594852-7a95ff3a-418c-44f9-95e2-fc19aa63e8cb.png" alt="drawing" width="40"/><br><br>
+<img src="https://user-images.githubusercontent.com/82602681/158594852-7a95ff3a-418c-44f9-95e2-fc19aa63e8cb.png" alt="drawing" width="40"/>
+<img src="https://user-images.githubusercontent.com/82602681/158598320-a2e6ca51-94a0-4632-aa97-22f6c4d36bcd.png" alt="drawing" width="40"/><br><br>
 
 Currently I'm working mostly in
 <img src="https://user-images.githubusercontent.com/82602681/158594083-b8a089af-71f0-4e76-84c5-319b54aaa69a.png" alt="drawing" width="50"/>
