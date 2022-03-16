@@ -3,10 +3,10 @@
 I did <strong>Le Wagon webdev bootcamp in July 2021</strong> and I'm now a <strong>Teacher's Assistant👨‍🏫</strong> there 🚋<br><br>
 I intensively learned<br><br>
 <img src="https://user-images.githubusercontent.com/82602681/158592931-2d376973-125b-486c-9b65-6ac361225c07.png" alt="drawing" width="50"/>
-<img src="https://user-images.githubusercontent.com/82602681/158595948-c9f75588-81ee-4a1f-805c-afd066d3bae4.png" alt="drawing" width="100"/><br><br>
+<img src="https://user-images.githubusercontent.com/82602681/158595948-c9f75588-81ee-4a1f-805c-afd066d3bae4.png" alt="drawing" width="100"/><br>
 
-I'm also currently a <strong>student @L'Ecole42</strong> where I'm sweating doing algorithms in<br><br>
-<img src="https://user-images.githubusercontent.com/82602681/158593235-d07d7825-dee5-42b9-8bef-bf791d923d1b.png" alt="drawing" width="100"/><br><br>
+I'm also currently a <strong>student @L'Ecole42</strong> where I'm sweating doing algorithms in<br>
+<img src="https://user-images.githubusercontent.com/82602681/158593235-d07d7825-dee5-42b9-8bef-bf791d923d1b.png" alt="drawing" width="70"/>
 
 I'm a <strong>Teacher 👨‍🏫</strong> for <strong>La Capsule</strong> an intensive JavaScript, Node/React bootcamp so I can also speak you in<br><br>
 <img src="https://user-images.githubusercontent.com/82602681/158593833-e95a120e-0cc1-4ae6-8558-c9f44a22f84d.png" alt="drawing" width="50"/>
