@@ -10,8 +10,9 @@ I'm also currently a <strong>student @L'Ecole42</strong> where I'm sweating doin
 
 I'm a <strong>Teacher 👨‍🏫</strong> for <strong>La Capsule</strong> an intensive JavaScript, Node/React bootcamp so I can also speak you in<br><br>
 <img src="https://user-images.githubusercontent.com/82602681/158593833-e95a120e-0cc1-4ae6-8558-c9f44a22f84d.png" alt="drawing" width="50"/>
-<img src="https://user-images.githubusercontent.com/82602681/158594080-8b54115d-77df-41f1-ae7b-d65e8c2ed34b.png" alt="drawing" width="50"/>
-<img src="https://user-images.githubusercontent.com/82602681/158594083-b8a089af-71f0-4e76-84c5-319b54aaa69a.png" alt="drawing" width="50"/><br><br>
+<img src="https://user-images.githubusercontent.com/82602681/158594080-8b54115d-77df-41f1-ae7b-d65e8c2ed34b.png" alt="drawing" width="80"/>
+<img src="https://user-images.githubusercontent.com/82602681/158594083-b8a089af-71f0-4e76-84c5-319b54aaa69a.png" alt="drawing" width="50"/>
+<img src="https://user-images.githubusercontent.com/82602681/158628783-ebaddc53-d7e0-4ebe-a436-ea2ca5a58579.png" alt="drawing" width="150"/><br><br>
 
 Of course I have used during all my different trainings<br><br>
 <img src="https://user-images.githubusercontent.com/82602681/158594763-e94a8509-d204-41ee-9630-b97604bdf04c.png" alt="drawing" width="70"/>
