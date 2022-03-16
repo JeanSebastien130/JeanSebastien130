@@ -23,7 +23,7 @@ Of course I have used during all my different trainings<br><br>
 Currently I'm working mostly in
 <img src="https://user-images.githubusercontent.com/82602681/158594083-b8a089af-71f0-4e76-84c5-319b54aaa69a.png" alt="drawing" width="50"/>
 and I'm learning to use
-<img src="https://user-images.githubusercontent.com/82602681/158595085-2f4cc5ac-4ed2-4729-8bb7-8116ab15cd45.png" alt="drawing" width="50"/><br><br>
+<img src="https://user-images.githubusercontent.com/82602681/158595085-2f4cc5ac-4ed2-4729-8bb7-8116ab15cd45.png" alt="drawing" width="40"/><br><br>
 
 Do not hesitate to check my repo's I do other side projects to have good nights of sleep 🧑‍💻<br><br>
 
