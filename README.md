@@ -1,31 +1,45 @@
-<strong>What'up? I'm Jean-Sebastien, welcome on board 🛫</strong>
+# <h1 align="center">Hi there ! Let me introduce me ☕️</h1>
 
-I did <strong>Le Wagon webdev bootcamp in July 2021</strong> and I'm now a <strong>Teacher's Assistant👨‍🏫</strong> there 🚋<br><br>
-I intensively learned<br><br>
-<img src="https://user-images.githubusercontent.com/82602681/158592931-2d376973-125b-486c-9b65-6ac361225c07.png" alt="drawing" width="50"/>
-<img src="https://user-images.githubusercontent.com/82602681/158595948-c9f75588-81ee-4a1f-805c-afd066d3bae4.png" alt="drawing" width="100"/><br>
+ 🏋️‍♀️ I’m currently student @L'Ecole42<br>
+ 📚 I've done LeWagon's bootcamp and LaCapsule bootcamp<br>
+ 👨‍🏫 I've worked as Teacher's Assistant and Lead teacher during several bootcamps tho<br>
+ 👯 For the moment : I can work with/for you<br>
+ 🛫 Travelling and playing field hockey is what I do during my free-time !<br>
+ 🐱 I'm a big cat's&dog's lover, no jealous with me 🐶<br><br>
 
-I'm also currently a <strong>student @L'Ecole42</strong> where I'm sweating doing algorithms in<br>
-<img src="https://user-images.githubusercontent.com/82602681/158593235-d07d7825-dee5-42b9-8bef-bf791d923d1b.png" alt="drawing" width="70"/>
 
-I'm a <strong>Teacher 👨‍🏫</strong> for <strong>La Capsule</strong> an intensive JavaScript, Node/React bootcamp so I can also speak you in<br><br>
-<img src="https://user-images.githubusercontent.com/82602681/158593833-e95a120e-0cc1-4ae6-8558-c9f44a22f84d.png" alt="drawing" width="50"/>
-<img src="https://user-images.githubusercontent.com/82602681/158594080-8b54115d-77df-41f1-ae7b-d65e8c2ed34b.png" alt="drawing" width="80"/>
-<img src="https://user-images.githubusercontent.com/82602681/158594083-b8a089af-71f0-4e76-84c5-319b54aaa69a.png" alt="drawing" width="50"/>
-<img src="https://user-images.githubusercontent.com/82602681/158628783-ebaddc53-d7e0-4ebe-a436-ea2ca5a58579.png" alt="drawing" width="150"/><br><br>
+<h4>⚔️ The stacks I'm using </h4>
 
-Of course I have used during all my different trainings<br><br>
-<img src="https://user-images.githubusercontent.com/82602681/158594763-e94a8509-d204-41ee-9630-b97604bdf04c.png" alt="drawing" width="70"/>
-<img src="https://user-images.githubusercontent.com/82602681/158594772-af6aec76-4edf-4f27-8279-ae65a5850d51.png" alt="drawing" width="100"/>
-<img src="https://user-images.githubusercontent.com/82602681/158594843-a92e0896-194f-4bf0-9073-9000b5f7d0d2.png" alt="drawing" width="55"/>
-<img src="https://user-images.githubusercontent.com/82602681/158594852-7a95ff3a-418c-44f9-95e2-fc19aa63e8cb.png" alt="drawing" width="40"/>
-<img src="https://user-images.githubusercontent.com/82602681/158598320-a2e6ca51-94a0-4632-aa97-22f6c4d36bcd.png" alt="drawing" width="40"/><br><br>
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![Ruby](https://img.shields.io/badge/-Ruby-%23E44D27?style=flat-square&logo=Ruby&logoColor=ffffff)
+![RubyOnRails](https://img.shields.io/badge/-RoR-%23E44D27?style=flat-square&logo=RubyOnRails&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
-Currently I'm working mostly in
-<img src="https://user-images.githubusercontent.com/82602681/158594083-b8a089af-71f0-4e76-84c5-319b54aaa69a.png" alt="drawing" width="50"/>
-and I'm learning to use
-<img src="https://user-images.githubusercontent.com/82602681/158595085-2f4cc5ac-4ed2-4729-8bb7-8116ab15cd45.png" alt="drawing" width="40"/><br><br>
+<h4>💻 I also use </h4>
 
-Do not hesitate to check my repo's I do other side projects to have good nights of sleep 🧑‍💻<br><br>
+![Postgres](https://img.shields.io/badge/-Postgres-%231572B6?style=flat-square&logo=Postgresql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-339933?style=flat-square&logo=Mongodb&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/-Figma-A8B9CC?style=flat-square&logo=Figma&logoColor=ffffff)
 
-<strong>Never ever hesitate to reach me !! js.morel130@gmail.com</strong><br><br>
+<h4>📫 You can reach me on </h4>
+<a href="mailto:js.morel130@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/JeanSebastien130"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/jsmorel/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  
+<h4>📊 Some stats </h4>
+
+<p align="center"></p>
+  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSebastien130&langs_count=5&theme=tokyonight&layout=compact">
+
+  <p align="right">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanSebastien130&theme=tokyonight&layout=compact")](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
+ 
