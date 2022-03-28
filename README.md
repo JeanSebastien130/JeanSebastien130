@@ -1,7 +1,7 @@
 # <h1 align="center">Hi there ! Let me introduce to you ☕️</h1>
 
  🏋️‍♀️ I’m currently student @L'Ecole42<br>
- 📚 I've done LeWagon's bootcamp and LaCapsule bootcamp<br>
+ 📚 I've done LeWagon's bootcamp and LaCapsule's bootcamp<br>
  👨‍🏫 I've worked as Teacher's Assistant and Lead teacher during several bootcamps tho<br>
  👯 For the moment : I can work with/for you<br>
  🛫 Travelling and playing field hockey is what I do during my free-time !<br>
