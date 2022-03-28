@@ -1,4 +1,4 @@
-# <h1 align="center">Hi there ! Let me introduce me ☕️</h1>
+# <h1 align="center">Hi there ! Let me introduce to you ☕️</h1>
 
  🏋️‍♀️ I’m currently student @L'Ecole42<br>
  📚 I've done LeWagon's bootcamp and LaCapsule bootcamp<br>
