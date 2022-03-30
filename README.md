@@ -18,6 +18,7 @@
 ![RubyOnRails](https://img.shields.io/badge/-RoR-%23E44D27?style=flat-square&logo=RubyOnRails&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![BootStrap](https://img.shields.io/badge/-BootStrap-ff69b4?style=flat-square&logo=bootstrap)
 
 <h4>💻 I also use </h4>
 
