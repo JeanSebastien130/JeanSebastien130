@@ -33,7 +33,7 @@
   
 <h4>📊 Some stats </h4>
 
-<p align="center"></p>
+<p></p>
   
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSebastien130&langs_count=6&theme=tokyonight&layout=compact">
 
