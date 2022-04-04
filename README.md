@@ -33,11 +33,11 @@
   
 <h4>📊 Some stats </h4>
 
-<p></p>
+<p style=>
   
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSebastien130&langs_count=6&theme=tokyonight&layout=compact">
+  <img style="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSebastien130&langs_count=6&theme=tokyonight&layout=compact">
 
-  <p align="left">
+  
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanSebastien130&theme=tokyonight&layout=compact")](https://github.com/anuraghazra/github-readme-stats)
 
