@@ -35,7 +35,7 @@
 
 <p align="center"></p>
   
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSebastien130&langs_count=5&theme=tokyonight&layout=compact">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSebastien130&langs_count=6&theme=tokyonight&layout=compact">
 
   <p align="right">
   
