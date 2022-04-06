@@ -34,13 +34,9 @@
   
 <h4>📊 Some stats </h4>
 
-<p style=>
-  
-  <img style="block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSebastien130&langs_count=6&theme=tokyonight&layout=compact">
+<p style=>  
 
-  
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanSebastien130&theme=tokyonight&layout=compact")](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanSebastien130&theme=tokyonight&layout=compact")](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
