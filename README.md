@@ -1,6 +1,6 @@
 # <h1 align="center">Hi there ! Let me introduce to you ☕️</h1>
 
- 🏋️‍♀️ I’m currently student @L'Ecole42<br>
+ 🏋️‍♀️ I’m currently FullStack Web Developer & student @L'Ecole42<br>
  📚 I've done LeWagon's bootcamp and LaCapsule's bootcamp<br>
  👨‍🏫 I've worked as Teacher's Assistant and Lead teacher in several bootcamps tho<br>
  👯 For the moment : I can work with/for you<br>
