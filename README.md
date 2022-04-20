@@ -40,4 +40,10 @@
 
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSebastien130&layout=compact&hide_title=true&theme=graywhite&hide_border=true&card_width=500&langs_count=5/">
+</p>
+  
+
  
