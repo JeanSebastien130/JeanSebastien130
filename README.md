@@ -34,15 +34,8 @@
   
 <h4>📊 Some stats </h4>
 
-<p style=>  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanSebastien130&theme=tokyonight&layout=compact")](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSebastien130&layout=compact&hide_title=true&theme=graywhite&hide_border=true&card_width=500&langs_count=5/">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanSebastien130&layout=compact&hide_title=true&theme=vue&hide_border=true&card_width=500&langs_count=5/">
 </p>
   
 
